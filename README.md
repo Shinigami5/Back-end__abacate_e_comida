@@ -2,7 +2,7 @@
 
 1-baixe o codigo utilizando o comando " git clone url do repositório"
 
-2-configurar o banco de dados MongoDB que o site vai utilizar
+2-configurar o banco de dados MongoDB para a API
 
 2.1- digite o comando em uma pasta onde vai ser criado o banco de dados     "C:\Program Files\MongoDB\Server\4.2\bin\mongod" --dbpath .
 -- MongoDB deve esta instalado --
