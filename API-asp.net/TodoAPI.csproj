@@ -25,16 +25,4 @@
 
 </Project>
 
-<!--
-  >"C:\Program Files\MongoDB\Server\4.2\bin\mongod" --dbpath .
 
-  >"C:\Program Files\MongoDB\Server\4.2\bin\mongo"
-  > DadoAP2db
-  > db.createCollection("Receita")
-  > db.createCollection("")
-
-
-
-
-
--->
