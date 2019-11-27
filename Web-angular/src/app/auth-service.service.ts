@@ -1,10 +1,10 @@
 import { Injectable } from '@angular/core';
-import { AngularFireAuth } from '@angular/fire/auth';
-import * as firebase from 'firebase/app';
+//import { AngularFireAuth } from '@angular/fire/auth';
+//import * as firebase from 'firebase/app';
 
-@Injectable({
-  providedIn: 'root'
-})
+//@Injectable({
+ // providedIn: 'root'
+//})
 export class AuthServiceService {
 
   constructor() { }
